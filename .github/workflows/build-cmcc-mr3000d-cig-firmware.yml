@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: build_cmcc_mr3000d-cig
+name: Build CMCC MR3000D CIG Firmware
 
 env:
   REPO_URL: https://github.com/1018ji/immortalwrt-mt798x-6.6
